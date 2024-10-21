@@ -27,6 +27,7 @@ while True:
         c.close() 
         break
 ```
+
 server
 ```
 import socket 
